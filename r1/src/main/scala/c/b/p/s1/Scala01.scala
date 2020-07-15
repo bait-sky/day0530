@@ -69,5 +69,6 @@ object Scala01 {
       println("-----------")
       println(a)
 
+    println("ssss")
   }
 }
